@@ -1,0 +1,5 @@
+aiohttp>=3.5.4
+discord.py>=1.1.1
+asyncpg>=0.18.3
+Pillow>=6.0.0
+discord>=1.0.1
